@@ -1,0 +1,4 @@
+WORKFLOW_NAME=Customer Registration Form_YBLPhase2
+NEW_WORKFLOW_NAME=UBI Registration Process
+#WORKFLOW_NAME=Agent Registration Approval Process
+SUPERVISOR=Administrator

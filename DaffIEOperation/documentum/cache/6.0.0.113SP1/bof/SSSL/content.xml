@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<CacheContent MasterVersionStamp="1859"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CacheContent.xsd">
+    <Entries>
+        <Entry ObjectId="0b0003e980006532" ObjectName="sssl_redemption">
+            <ImplClass>com.sssl.tbos.SSSLRedemptionAclTbo</ImplClass>
+            <VersionStamp>36</VersionStamp>
+            <BofVersion>1.0</BofVersion>
+            <ObjectType>TBO</ObjectType>
+            <Files>
+                <File
+                    FilePath="D:\DATA\jyoti\SSSL Utility Workspace\DaffIEOperation\documentum\cache\6.0.0.113SP1\bof\SSSL\090003e980006983.jar"
+                    IsArchive="true" IsSandboxed="true"/>
+            </Files>
+            <Interfaces>
+                <Interface>com.documentum.fc.client.IDfBusinessObject</Interface>
+                <Interface>com.documentum.fc.common.IDfDynamicInheritance</Interface>
+                <Interface>com.documentum.fc.client.IDfDocument</Interface>
+                <Interface>com.documentum.fc.client.IDfSysObject</Interface>
+                <Interface>com.documentum.fc.client.IDfPersistentObject</Interface>
+                <Interface>com.documentum.fc.client.IDfTypedObject</Interface>
+                <Interface>com.documentum.fc.client.impl.ISysObject</Interface>
+                <Interface>com.documentum.fc.client.impl.IPersistentObject</Interface>
+                <Interface>com.documentum.fc.client.impl.ITypedObject</Interface>
+                <Interface>com.documentum.fc.client.internal.ITypedObjectInternal</Interface>
+                <Interface>com.documentum.fc.tracing.IUserIdentifyingObject</Interface>
+                <Interface>com.documentum.fc.client.internal.IPersistentObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.internal.ISysObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.impl.IAliasResolution</Interface>
+                <Interface>com.documentum.fc.client.IDfSysObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.IDfPersistentObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.IDfSysObjectRetention</Interface>
+                <Interface>com.documentum.fc.impl.util.reflection.proxy.IProxyTarget</Interface>
+                <Interface>com.documentum.fc.client.relationship.IDfRelatable</Interface>
+                <Interface>com.documentum.fc.client.aspect.IDfAspects</Interface>
+                <Interface>java.lang.Cloneable</Interface>
+                <Interface>java.io.Serializable</Interface>
+                <Interface>com.documentum.fc.client.IDfTypedObjectInternal</Interface>
+            </Interfaces>
+            <Dependencies/>
+            <Privileged>false</Privileged>
+            <PrivilegeRoles/>
+        </Entry>
+        <Entry ObjectId="0b0003e980006530" ObjectName="sssl_purchase">
+            <ImplClass>com.sssl.tbos.SSSLPurchaseAclTbo</ImplClass>
+            <VersionStamp>35</VersionStamp>
+            <BofVersion>1.0</BofVersion>
+            <ObjectType>TBO</ObjectType>
+            <Files>
+                <File
+                    FilePath="D:\DATA\jyoti\SSSL Utility Workspace\DaffIEOperation\documentum\cache\6.0.0.113SP1\bof\SSSL\090003e980006982.jar"
+                    IsArchive="true" IsSandboxed="true"/>
+            </Files>
+            <Interfaces>
+                <Interface>com.documentum.fc.client.IDfBusinessObject</Interface>
+                <Interface>com.documentum.fc.common.IDfDynamicInheritance</Interface>
+                <Interface>com.documentum.fc.client.IDfDocument</Interface>
+                <Interface>com.documentum.fc.client.IDfSysObject</Interface>
+                <Interface>com.documentum.fc.client.IDfPersistentObject</Interface>
+                <Interface>com.documentum.fc.client.IDfTypedObject</Interface>
+                <Interface>com.documentum.fc.client.impl.ISysObject</Interface>
+                <Interface>com.documentum.fc.client.impl.IPersistentObject</Interface>
+                <Interface>com.documentum.fc.client.impl.ITypedObject</Interface>
+                <Interface>com.documentum.fc.client.internal.ITypedObjectInternal</Interface>
+                <Interface>com.documentum.fc.tracing.IUserIdentifyingObject</Interface>
+                <Interface>com.documentum.fc.client.internal.IPersistentObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.internal.ISysObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.impl.IAliasResolution</Interface>
+                <Interface>com.documentum.fc.client.IDfSysObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.IDfPersistentObjectInternal</Interface>
+                <Interface>com.documentum.fc.client.IDfSysObjectRetention</Interface>
+                <Interface>com.documentum.fc.impl.util.reflection.proxy.IProxyTarget</Interface>
+                <Interface>com.documentum.fc.client.relationship.IDfRelatable</Interface>
+                <Interface>com.documentum.fc.client.aspect.IDfAspects</Interface>
+                <Interface>java.lang.Cloneable</Interface>
+                <Interface>java.io.Serializable</Interface>
+                <Interface>com.documentum.fc.client.IDfTypedObjectInternal</Interface>
+            </Interfaces>
+            <Dependencies/>
+            <Privileged>false</Privileged>
+            <PrivilegeRoles/>
+        </Entry>
+    </Entries>
+    <FilesInventory>
+        <File
+            FilePath="D:\DATA\jyoti\SSSL Utility Workspace\DaffIEOperation\documentum\cache\6.0.0.113SP1\bof\SSSL\090003e980006983.jar" ObjectLastAccessed="1268679311078"/>
+        <File
+            FilePath="D:\DATA\jyoti\SSSL Utility Workspace\DaffIEOperation\documentum\cache\6.0.0.113SP1\bof\SSSL\090003e980006982.jar" ObjectLastAccessed="1268684200546"/>
+    </FilesInventory>
+</CacheContent>

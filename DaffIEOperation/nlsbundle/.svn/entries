@@ -1,0 +1,52 @@
+8
+
+dir
+77542
+http://210.7.76.130:1919/svn/repos/Obopay/trunk/NokiaMPS/nlsbundle
+http://210.7.76.130:1919/svn/repos
+
+
+
+2011-09-22T13:17:31.750000Z
+77542
+harsh.vardhan
+
+
+svn:special svn:externals svn:needs-lock
+
+roleDetail.properties
+file
+
+
+
+
+2011-09-15T08:54:12.000000Z
+ca9ce8c69acaa9a267bf5c41b55ef28a
+2011-09-22T13:17:31.750000Z
+77542
+harsh.vardhan
+
+PdfMerge.properties
+file
+
+
+
+
+2011-08-16T06:56:18.000000Z
+df355fa52de8363d07bd39e4c0104565
+2011-09-22T13:17:31.750000Z
+77542
+harsh.vardhan
+
+workFlowDetails.properties
+file
+
+
+
+
+2011-09-13T11:15:28.000000Z
+0a6cff7812e428e07be7b6ad9af76045
+2011-09-22T13:17:31.750000Z
+77542
+harsh.vardhan
+
