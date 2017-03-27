@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: . UtilityYBL_lib/jgoodies-looks-2.4.1.jar UtilityYBL_lib/a
+ spectjrt.jar UtilityYBL_lib/junit-4.6.jar UtilityYBL_lib/configservic
+ e-api.jar UtilityYBL_lib/jaxb-impl.jar UtilityYBL_lib/xtrim-server.ja
+ r UtilityYBL_lib/dms-client-api.jar UtilityYBL_lib/xtrim-api.jar Util
+ ityYBL_lib/configservice-impl.jar UtilityYBL_lib/All-MB.jar UtilityYB
+ L_lib/jaxb-api.jar UtilityYBL_lib/jcalendar-1.4.jar UtilityYBL_lib/jg
+ oodies-common-1.2.0.jar UtilityYBL_lib/dfc.jar UtilityYBL_lib/jsafeFI
+ PS.jar UtilityYBL_lib/jsr173_api.jar UtilityYBL_lib/jxl.jar UtilityYB
+ L_lib/log4j.jar UtilityYBL_lib/activation.jar UtilityYBL_lib/certjFIP
+ S.jar
+Main-Class: com.daffodil.documentumie.iebusiness.ImportExportStart
+
